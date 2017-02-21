@@ -29,4 +29,5 @@
         <variable name="XWALK_MULTIPLEAPK" value="true" />
     </plugin>
     <plugin name="cordova-plugin-device-motion" spec="~1.2.3" />
+    <plugin name="cordova-plugin-geolocation" spec="~2.4.1" />
 </widget>
